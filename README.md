@@ -1,1 +1,5 @@
 # Customer-Personality-Prediction-Using-ML
+
+Customer personality prediction using machine learning is a powerful approach to understanding and anticipating customer behavior by analyzing their personality traits. This project focuses on utilizing machine learning algorithms to predict the personality profiles of customers based on their interactions, preferences, and demographic information. By leveraging data-driven techniques, we aim to create models that can classify customers into different personality categories, such as introverts, extroverts, and more nuanced traits. Understanding customer personalities allows businesses to tailor their marketing strategies, improve customer engagement, and personalize their offerings, ultimately enhancing customer satisfaction and loyalty. This project involves comprehensive data preprocessing, feature engineering, and the application of various classification algorithms to achieve accurate and insightful personality predictions.
+
+Make sure to change the appropriate path for the .csv file before you run the program!
